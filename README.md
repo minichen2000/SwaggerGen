@@ -13,4 +13,4 @@ mvn install
 cd ../ctrl_adp_client
 mvn install
 ````
-- You will have the Client/Server libraries(jars) in sub-target directories and your local maven reponsitary.
+- You will have Client/Server libraries(jars) in both sub-target directories and your local maven reponsitary.
