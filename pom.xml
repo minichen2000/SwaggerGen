@@ -103,34 +103,6 @@
                             </arguments>
                         </configuration>
                     </execution>
-                    <execution>
-                        <id>gen-ctrl-adp-server-lib-publish</id>
-                        <phase>generate-sources</phase>
-                        <goals>
-                            <goal>exec</goal>
-                        </goals>
-                        <configuration>
-                            <executable>maven</executable>
-                            <workingDirectory>${basedir}/gen/ctrl_adp_server</workingDirectory>
-                            <arguments>
-                                <argument>package</argument>
-                            </arguments>
-                        </configuration>
-                    </execution>
-                    <execution>
-                        <id>gen-ctrl-adp-client-lib-publish</id>
-                        <phase>generate-sources</phase>
-                        <goals>
-                            <goal>exec</goal>
-                        </goals>
-                        <configuration>
-                            <executable>mvn</executable>
-                            <workingDirectory>${basedir}/gen/ctrl_adp_client</workingDirectory>
-                            <arguments>
-                                <argument>package</argument>
-                            </arguments>
-                        </configuration>
-                    </execution>
                 </executions>
 
 
