@@ -1,5 +1,5 @@
 # [SwaggerGen](https://github.com/minichen2000/SwaggerGen)
-[SwaggerGen](https://github.com/minichen2000/SwaggerGen) uses (Swagger codegen)(https://github.com/swagger-api/swagger-codegen) to generate java Client/Server libraries(based on Jersey2.x).
+[SwaggerGen](https://github.com/minichen2000/SwaggerGen) uses [Swagger codegen](https://github.com/swagger-api/swagger-codegen) to generate java Client/Server libraries(based on Jersey2.x).
 
 # How to generate
 - Clone the project.
