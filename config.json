@@ -1,6 +1,0 @@
-{
-  "groupId":"com.nokia.nsb",
-  "artifactId":"MyClient",
-  "artifactVersion":"1.2.0",
-  "library":"jersey2"
-}
